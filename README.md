@@ -11,8 +11,7 @@
 * Game over conditions
 
 ## Code Structure
-
-domain.py: Defines the Board class, encapsulating the game state
-services.py: Contains the Services class, managing game logic
-user_interface.py: Implements the UserInterface class for handling user input
-start.py: Entry point of the game, initializing objects and starting the game loop
+* domain.py: Defines the Board class, encapsulating the game state
+* services.py: Contains the Services class, managing game logic
+* user_interface.py: Implements the UserInterface class for handling user input
+* start.py: Entry point of the game, initializing objects and starting the game loop
